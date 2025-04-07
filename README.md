@@ -3,6 +3,7 @@
 <!-- PROJECT SHIELDS -->
 [![Apple-Silicon-Shield]][Apple-Silicon-Shield-url]
 ![Duq-badge](https://custom-icon-badges.demolab.com/badge/-Duquesne%20University-ba0c2f?style=for-the-badge&logo=duquesne_dukes_logo1)
+[![get it on marketplace](/marketplace-light.png "Get Wave Link on Marketplace")](https://marketplace.elgato.com/product/wave-link-1baa435a-c623-406d-b53c-53338c6d95d3)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][GitHub-shield]][GitHub-url]
