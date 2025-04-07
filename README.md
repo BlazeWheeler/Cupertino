@@ -6,10 +6,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][GitHub-shield]][GitHub-url]
-<a href="https://marketplace.elgato.com/product/wave-link-1baa435a-c623-406d-b53c-53338c6d95d3" rel="noopener noreferrer" target="_blank">
-	<img src="/marketplace-light.png" alt="Get it on marketplace" title="Get Wave Link on Marketplace" />
-</a>
-
+![Get It On Marketplace](assets/marketplace-dark.svg)
 
 
 <!-- PROJECT LOGO -->
