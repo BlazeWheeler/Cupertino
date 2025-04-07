@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://marketplace.elgato.com/product/glow-gato-4a38bdb6-59ad-43f9-9020-5ce6a72b2089
+  <a href="https://github.com/BlazeWheeler/Cupertino/blob/main/assets/thubmnail.png
 ">
     <img src="com.blazewheeler.glowgato.sdIconPack/icon.png" alt="Logo" width="80" height="80">
   </a>
@@ -45,8 +45,8 @@ Introducing **Cupertino** – a premium Elgato Stream Deck Icon Pack:
 **Cupertino** isn’t just an icon pack — it’s a workspace upgrade that empowers your workflow and reflects your aesthetic.
 
 ![App Preview](assets/preview-1.png)
-![App Preview](com.blazewheeler.glowgato.sdIconPack/previews/2-preview.png)
-![App Preview](com.blazewheeler.glowgato.sdIconPack/previews/3-preview.png)
+![App Preview](assets/preview-2.png)
+![App Preview](assets/preview-3.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
