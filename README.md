@@ -2,7 +2,6 @@
 
 <!-- PROJECT SHIELDS -->
 [![Apple-Silicon-Shield]][Apple-Silicon-Shield-url]
-[![Apache][license-shield]][license-url]
 ![Duq-badge](https://custom-icon-badges.demolab.com/badge/-Duquesne%20University-ba0c2f?style=for-the-badge&logo=duquesne_dukes_logo1)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -57,26 +56,15 @@ Introducing **Cupertino** – a premium Elgato Stream Deck Icon Pack:
 
 <!-- LICENSE -->
 
-# Released Under Apache License License
+# Released Under End-User License Agreement (EULA)
 
-Copyright (c) 2024 Blaze Wheeler
+Cupertino Icon Pack – End-User License Agreement (EULA)
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
 
-    http://www.apache.org/licenses/LICENSE-2.0
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
- THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE. SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This End-User License Agreement ("Agreement") is between you, the end-user ("User"), and Blaze Wheeler ("Licensor"), creator of the Cupertino Icon Pack (“Cupertino”), hosted at https://github.com/BlazeWheeler/Cupertino.
 
+This Agreement outlines the terms under which you may use the Cupertino icon pack assets. By purchasing, downloading, installing, or using the Cupertino Icon Pack, you agree to be bound by the terms of this Agreement.
 
 <!-- CONTACT -->
 
