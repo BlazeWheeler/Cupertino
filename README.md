@@ -13,16 +13,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/BlazeWheeler/Cupertino/blob/main/assets/thubmnail.png
+  <a href="
 ">
-    <img src="com.blazewheeler.glowgato.sdIconPack/icon.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/BlazeWheeler/Cupertino/blob/main/assets/thubmnail.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Glow Gato</h3>
+  <h3 align="center">Cupertino</h3>
 
 
   <p align="center">
-   The Ultimate Elgato Stream Deck Icon Pack
+   A Premium Elgato Stream Deck Icon Pack
     <br />
     </div>
 
@@ -46,7 +46,8 @@ Introducing **Cupertino** – a premium Elgato Stream Deck Icon Pack:
 
 ![App Preview](assets/preview-1.png)
 ![App Preview](assets/preview-2.png)
-![App Preview](assets/preview-3.png)
+![App Preview](assets/preview_3.png)
+![App Preview](assets/preview-4.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
