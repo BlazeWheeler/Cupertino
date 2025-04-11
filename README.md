@@ -6,7 +6,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][GitHub-shield]][GitHub-url]
-![Get It On Marketplace](assets/marketplace-dark.svg)[Get It On Marketplace]
+![Get It On Marketplace][Get It On Marketplace](assets/marketplace-dark.svg)
 
 
 <!-- PROJECT LOGO -->
