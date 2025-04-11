@@ -6,7 +6,9 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][GitHub-shield]][GitHub-url]
-![Get It On Marketplace][Get It On Marketplace]
+
+<img src="https://github.com/BlazeWheeler/Cupertino/blob/main/assets/marketplace-dark.svg" alt=" ElgatoLogo"><a href="https://marketplace.elgato.com/product/cupertino-b41f8167-01cc-463d-9e5f-a16d68aea0aa">
+
 
 
 <!-- PROJECT LOGO -->
@@ -83,7 +85,7 @@ Blaze Wheeler  - blaze@blazew.me
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Get It On Marketplace]: assets/marketplace-dark.svg
-[Get It On Marketplace-link]: https://marketplace.elgato.com/product/cupertino-b41f8167-01cc-463d-9e5f-a16d68aea0aa
+[Get It On Marketplace-url]: https://marketplace.elgato.com/product/cupertino-b41f8167-01cc-463d-9e5f-a16d68aea0aa
 
 [Apple-Silicon-Shield]: https://img.shields.io/badge/Apple-Silicon_M2-999999?style=for-the-badge&logo=apple&logoColor=white
 [Apple-Silicon-Shield-url]: https://support.apple.com/en-us/HT211814
